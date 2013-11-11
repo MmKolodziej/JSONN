@@ -1,0 +1,33 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1381773151045 3811 512fe564bcd23b0e9ce72b3bd1d88340e7abc496 C:\Users\Marcin\AndroidStudioProjects\JSONNProject\JSONN\build\classes\debug\com\notexample\jsonn\RegisterActivity.class
+1381773150865 691 9811bc604edacc54903a5a635664bd35713bff67 C:\Users\Marcin\AndroidStudioProjects\JSONNProject\JSONN\build\classes\debug\com\notexample\jsonn\LoginActivity$3.class
+1381773151062 470 07b846e52e859aa4dde1d0598511288fd0ac2927 C:\Users\Marcin\AndroidStudioProjects\JSONNProject\JSONN\build\classes\debug\com\notexample\jsonn\BuildConfig.class
+1381773150816 2498 5acbfea6b093da7bb2ef6137186b7b757078c28d C:\Users\Marcin\AndroidStudioProjects\JSONNProject\JSONN\build\classes\debug\com\notexample\jsonn\CommentAdapter.class
+1381773150922 1048 e49983a74a1b4c2b602c1827dbb31d087b052c12 C:\Users\Marcin\AndroidStudioProjects\JSONNProject\JSONN\build\classes\debug\com\notexample\jsonn\MainActivity$2.class
+1381773150930 7438 c733311df9ed49435854c0c9f7b1a0e83c303ffe C:\Users\Marcin\AndroidStudioProjects\JSONNProject\JSONN\build\classes\debug\com\notexample\jsonn\MainActivity.class
+1381773150577 642 b7d8b1b337e1fd8b73fd910e5b0d5a7cfb9b6339 C:\Users\Marcin\AndroidStudioProjects\JSONNProject\JSONN\build\classes\debug\com\notexample\jsonn\Comment.class
+1381773150784 813 b704a4a86c369541306b9d33ac6a1110d076fbe2 C:\Users\Marcin\AndroidStudioProjects\JSONNProject\JSONN\build\classes\debug\com\notexample\jsonn\CommentActivity$2.class
+1381773150864 1047 324d760171a6d1f3fa6088c1d27cc8ca2b89f488 C:\Users\Marcin\AndroidStudioProjects\JSONNProject\JSONN\build\classes\debug\com\notexample\jsonn\LoginActivity$2.class
+1381773151053 346 1f979f8eeae807b2ae813200bbf253a151cbc2f8 C:\Users\Marcin\AndroidStudioProjects\JSONNProject\JSONN\build\classes\debug\com\notexample\jsonn\R$attr.class
+1381773150948 2380 72571877bdb445786900a5d39e3f1221d3b8cf96 C:\Users\Marcin\AndroidStudioProjects\JSONNProject\JSONN\build\classes\debug\com\notexample\jsonn\PostAdapter.class
+1381773151056 572 65bae49f9eb99cd8568cc2ecdbfc9886ce1af08c C:\Users\Marcin\AndroidStudioProjects\JSONNProject\JSONN\build\classes\debug\com\notexample\jsonn\R$layout.class
+1381773151054 413 db9dc4637d65e5874749dff7eca071bd66037d87 C:\Users\Marcin\AndroidStudioProjects\JSONNProject\JSONN\build\classes\debug\com\notexample\jsonn\R$drawable.class
+1381773150920 1270 3dbcfc6785a32ea3020fea33e870537e9dd10262 C:\Users\Marcin\AndroidStudioProjects\JSONNProject\JSONN\build\classes\debug\com\notexample\jsonn\MainActivity$1.class
+1376080177599 490914 3fe75433da602500cc71fcc1c46e5550291dd45d C:\Program Files (x86)\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\13.0.0\support-v4-13.0.0.jar
+1381773150863 1904 a4efd8f450e2a598aef4dbed8d6ef7c9984f6e83 C:\Users\Marcin\AndroidStudioProjects\JSONNProject\JSONN\build\classes\debug\com\notexample\jsonn\LoginActivity$1.class
+1381773150870 4561 0bd45c8a6bc03ba16f6acfc8c635562af0c8d963 C:\Users\Marcin\AndroidStudioProjects\JSONNProject\JSONN\build\classes\debug\com\notexample\jsonn\LoginActivity.class
+1381773151053 467 9fbff712a38483fb2e7a783c627e73bf96685ac7 C:\Users\Marcin\AndroidStudioProjects\JSONNProject\JSONN\build\classes\debug\com\notexample\jsonn\R$dimen.class
+1381773151056 394 f6cef09d13007e144a3fa1a238f286f950d1dafd C:\Users\Marcin\AndroidStudioProjects\JSONNProject\JSONN\build\classes\debug\com\notexample\jsonn\R$menu.class
+1381773151057 478 1399760feb83e186bb175044ee470f3ab0ad6dba C:\Users\Marcin\AndroidStudioProjects\JSONNProject\JSONN\build\classes\debug\com\notexample\jsonn\R$string.class
+1381773151055 776 85965a425d6ca64d85e6efdc1ab04de18c5495d5 C:\Users\Marcin\AndroidStudioProjects\JSONNProject\JSONN\build\classes\debug\com\notexample\jsonn\R$id.class
+1381773151040 1627 7166e4dec2e45a84d4c9cce46e1fc36bdcd0409a C:\Users\Marcin\AndroidStudioProjects\JSONNProject\JSONN\build\classes\debug\com\notexample\jsonn\RegisterActivity$1.class
+1381773151041 689 cf351cf3361c99dd44cad5790cd4bb697adda901 C:\Users\Marcin\AndroidStudioProjects\JSONNProject\JSONN\build\classes\debug\com\notexample\jsonn\RegisterActivity$2.class
+1381773151058 437 5908b8f5debaf01e40e0c9a9122e0ccc401f6201 C:\Users\Marcin\AndroidStudioProjects\JSONNProject\JSONN\build\classes\debug\com\notexample\jsonn\R$style.class
+1381773150933 562 25f041fc42f5fd55f5aa8714195070f26c4a81ac C:\Users\Marcin\AndroidStudioProjects\JSONNProject\JSONN\build\classes\debug\com\notexample\jsonn\Post.class
+1381773150756 1200 6ff7d97cec812ca0791025d54e5c66ac23038a61 C:\Users\Marcin\AndroidStudioProjects\JSONNProject\JSONN\build\classes\debug\com\notexample\jsonn\CommentActivity$1.class
+1381773150943 478 cf5c6969558039c98ac6483468e98f00787af759 C:\Users\Marcin\AndroidStudioProjects\JSONNProject\JSONN\build\classes\debug\com\notexample\jsonn\PostAdapter$PostHolder.class
+1381773150812 522 ac2a9565db67aadf53abc0b8439e3669c2f838be C:\Users\Marcin\AndroidStudioProjects\JSONNProject\JSONN\build\classes\debug\com\notexample\jsonn\CommentAdapter$CommentHolder.class
+1381773150797 9466 1e61b85785fb18abcbfc23d51bbc42baaf35483d C:\Users\Marcin\AndroidStudioProjects\JSONNProject\JSONN\build\classes\debug\com\notexample\jsonn\CommentActivity.class
+1381773151059 697 5a694c06af6d631365c1b7b36a7544565a3bb7fa C:\Users\Marcin\AndroidStudioProjects\JSONNProject\JSONN\build\classes\debug\com\notexample\jsonn\R.class
